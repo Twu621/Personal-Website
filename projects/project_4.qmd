@@ -1,0 +1,12 @@
+---
+date: "December, 2024"
+title: "NBA Team Winning Predictions"
+author: "Stats 101C Group 7"
+---
+
+## Descriptions & Summary
+- Developed predictive models using R for NBA game outcomes.  
+- Utilized gradient boosting to improve accuracy.  
+
+## Link
+- Published results on [Google Doc](https://docs.google.com/document/u/2/d/e/2PACX-1vTLgZRRU3R-WH2kohtdtXz-ICo17u9AQGi_a4j3T4nTuD3JMPP-p_LvFRxRZyefcQ/pub).  

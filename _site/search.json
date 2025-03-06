@@ -4,48 +4,167 @@
     "href": "index.html",
     "title": "Tingwei Wu",
     "section": "",
-    "text": "Finley Malloc is the Chief Data Scientist at Wengo Analytics. When not innovating on data platforms, Finley enjoys spending time unicycling and playing with her pet iguana. Download My CV ## Education\nUniversity of California, San Diego | San Diego, CA PhD in Mathematics | Sept 2011 - June 2015\nMacalester College | St. Paul, MN B.A in Economics | Sept 2007 - June 2011"
+    "text": "Tingwei Wu is a passionate data analyst with a strong foundation in statistics and machine learning. Currently studying at UCLA, Tingwei enjoys uncovering insights through data and contributing to impactful decision-making. When not analyzing datasets, he loves playing soccer, running, and exploring data storytelling.\nDownload My CV"
   },
   {
     "objectID": "index.html#education",
     "href": "index.html#education",
     "title": "Tingwei Wu",
-    "section": "Education",
-    "text": "Education\nUniversity of California, San Diego | San Diego, CA PhD in Mathematics | Sept 2011 - June 2015\nMacalester College | St. Paul, MN B.A in Economics | Sept 2007 - June 2011"
+    "section": "",
+    "text": "University of California, Los Angeles\nB.S. in Statistics | Sept 2023 - Present\nContra Costa College\nNon Degree Seeking | Sept 2020 - May 2023\nHercules High School\nHigh School Diploma | Sept 2017 - June 2020"
   },
   {
     "objectID": "index.html#experience",
     "href": "index.html#experience",
     "title": "Tingwei Wu",
     "section": "Experience",
-    "text": "Experience\nWengo Analytics | Head Data Scientist | April 2018 - present\nGeoScynce | Chief Analyst | Spet 2012 - April 2018"
+    "text": "Experience\nMasked Miles Project (DGT-HUM101)\nData Analyst | UCLA | 2024\n- Collaborated on a digital humanities project to map and analyze travel data.\nNBA Team Winning Predictions (Stats 101C)\nTeam Member | UCLA | 2024\n- Developed predictive models using R for NBA game outcomes.\n- Utilized gradient boosting to improve accuracy.\nExperimental Design Project (Stats 101B)\nTeam Member | UCLA | 2024\n- Designed and conducted experiments to analyze the effects of diet and exercise on physical health.\n- Applied ANOVA and visualized results using R.\nCalifornia Housing Price Analysis (Stats 101A)\nTeam Member | UCLA | 2024\n- Conducted exploratory data analysis and regression modeling to predict housing prices in California.\n- Built multiple linear regression models in R."
   },
   {
     "objectID": "about.html",
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
+    "text": "Tingwei Wu"
   },
   {
     "objectID": "projects.html",
     "href": "projects.html",
     "title": "Projects",
     "section": "",
-    "text": "Order By\n       Default\n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n         \n          Title\n        \n         \n          Author\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\nDate\n\n\nTitle\n\n\nAuthor\n\n\n\n\n\n\nMar 5, 2025\n\n\nproject_1\n\n\nTingwei Wu\n\n\n\n\nMar 4, 2025\n\n\nproject_2\n\n\nTingwei Wu\n\n\n\n\n\nNo matching items"
+    "text": "Order By\n       Default\n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n         \n          Title\n        \n         \n          Author\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\nDate\n\n\nTitle\n\n\nAuthor\n\n\n\n\n\n\nMar 1, 2024\n\n\nCalifornia Housing Price Analysis\n\n\nStats 101A Group 31\n\n\n\n\nJun 1, 2024\n\n\nExperimental Design Project\n\n\nSTATS 101B Group 22\n\n\n\n\nDec 1, 2024\n\n\nMasked Miles Project\n\n\nDGT-HUM101 Final Project team\n\n\n\n\nDec 1, 2024\n\n\nNBA Team Winning Predictions\n\n\nStats 101C Group 7\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "projects/project_2.html",
     "href": "projects/project_2.html",
-    "title": "project_2",
+    "title": "California Housing Price Analysis",
     "section": "",
-    "text": "2+2\n\n[1] 4"
+    "text": "Conducted exploratory data analysis and regression modeling to predict housing prices in California.\n\nBuilt multiple linear regression models in R."
   },
   {
     "objectID": "projects/project_1.html",
     "href": "projects/project_1.html",
-    "title": "project_1",
+    "title": "Experimental Design Project",
     "section": "",
-    "text": "1+1\n\n[1] 2"
+    "text": "Designed and conducted experiments to analyze the effects of diet and exercise on physical health.\n\nApplied ANOVA and visualized results using R."
+  },
+  {
+    "objectID": "index.html#project-experience",
+    "href": "index.html#project-experience",
+    "title": "Tingwei Wu",
+    "section": "Project Experience",
+    "text": "Project Experience\nMasked Miles Project (DGT-HUM101)\nData Analyst | UCLA | 2024\n- Collaborated on a digital humanities project to map and analyze travel data.\nNBA Team Winning Predictions (Stats 101C)\nTeam Member | UCLA | 2024\n- Developed predictive models using R for NBA game outcomes.\n- Utilized gradient boosting to improve accuracy.\nExperimental Design Project (Stats 101B)\nTeam Member | UCLA | 2024\n- Designed and conducted experiments to analyze the effects of diet and exercise on physical health.\n- Applied ANOVA and visualized results using R.\nCalifornia Housing Price Analysis (Stats 101A)\nTeam Member | UCLA | 2024\n- Conducted exploratory data analysis and regression modeling to predict housing prices in California.\n- Built multiple linear regression models in R."
+  },
+  {
+    "objectID": "index.html#education-experience",
+    "href": "index.html#education-experience",
+    "title": "Tingwei Wu",
+    "section": "Education Experience",
+    "text": "Education Experience\nUniversity of California, Los Angeles\nB.S. in Statistics | Sept 2023 - Present\nContra Costa College\nNon Degree Seeking | Sept 2020 - May 2023\nHercules High School\nHigh School Diploma | Sept 2017 - June 2020"
+  },
+  {
+    "objectID": "index.html#projects-experience",
+    "href": "index.html#projects-experience",
+    "title": "Tingwei Wu",
+    "section": "Projects Experience",
+    "text": "Projects Experience\nMasked Miles Project (DGT-HUM101)\nData Analyst | UCLA | 2024\nNBA Team Winning Predictions (Stats 101C)\nTeam Member | UCLA | 2024\nExperimental Design Project (Stats 101B)\nTeam Member | UCLA | 2024\nCalifornia Housing Price Analysis (Stats 101A)\nTeam Member | UCLA | 2024"
+  },
+  {
+    "objectID": "about.html#author",
+    "href": "about.html#author",
+    "title": "About",
+    "section": "",
+    "text": "Tingwei Wu"
+  },
+  {
+    "objectID": "about.html#date",
+    "href": "about.html#date",
+    "title": "About",
+    "section": "Date",
+    "text": "Date\nMade in March 06 2025"
+  },
+  {
+    "objectID": "about.html#note",
+    "href": "about.html#note",
+    "title": "About",
+    "section": "Note",
+    "text": "Note\nThis site would not have been possible without the guidance and support of Assistant Professor Alex I truly appreciate him."
+  },
+  {
+    "objectID": "about.html#acknowledgements",
+    "href": "about.html#acknowledgements",
+    "title": "About",
+    "section": "Acknowledgements",
+    "text": "Acknowledgements\nThis site would not have been possible without the guidance and support of Assistant Professor Alex I truly appreciate him."
+  },
+  {
+    "objectID": "projects/project_4.html",
+    "href": "projects/project_4.html",
+    "title": "NBA Team Winning Predictions",
+    "section": "",
+    "text": "Developed predictive models using R for NBA game outcomes.\n\nUtilized gradient boosting to improve accuracy."
+  },
+  {
+    "objectID": "projects/project_4.html#descriptions-summary",
+    "href": "projects/project_4.html#descriptions-summary",
+    "title": "NBA Team Winning Predictions",
+    "section": "",
+    "text": "Developed predictive models using R for NBA game outcomes.\n\nUtilized gradient boosting to improve accuracy."
+  },
+  {
+    "objectID": "projects/project_4.html#link",
+    "href": "projects/project_4.html#link",
+    "title": "NBA Team Winning Predictions",
+    "section": "Link",
+    "text": "Link\n\nPublished results on Google Doc."
+  },
+  {
+    "objectID": "projects/project_1.html#descriptions-summary",
+    "href": "projects/project_1.html#descriptions-summary",
+    "title": "Experimental Design Project",
+    "section": "",
+    "text": "Designed and conducted experiments to analyze the effects of diet and exercise on physical health.\n\nApplied ANOVA and visualized results using R."
+  },
+  {
+    "objectID": "projects/project_1.html#link",
+    "href": "projects/project_1.html#link",
+    "title": "Experimental Design Project",
+    "section": "Link",
+    "text": "Link\n\nPublished results on Google Doc."
+  },
+  {
+    "objectID": "projects/project_3.html",
+    "href": "projects/project_3.html",
+    "title": "Masked Miles Project",
+    "section": "",
+    "text": "Collaborated on a digital humanities project to map and analyze travel data."
+  },
+  {
+    "objectID": "projects/project_3.html#descriptions-summary",
+    "href": "projects/project_3.html#descriptions-summary",
+    "title": "Masked Miles Project",
+    "section": "",
+    "text": "Collaborated on a digital humanities project to map and analyze travel data."
+  },
+  {
+    "objectID": "projects/project_3.html#link",
+    "href": "projects/project_3.html#link",
+    "title": "Masked Miles Project",
+    "section": "Link",
+    "text": "Link\n\nPublished results on Masked Miles."
+  },
+  {
+    "objectID": "projects/project_2.html#descriptions-summary",
+    "href": "projects/project_2.html#descriptions-summary",
+    "title": "California Housing Price Analysis",
+    "section": "",
+    "text": "Conducted exploratory data analysis and regression modeling to predict housing prices in California.\n\nBuilt multiple linear regression models in R."
+  },
+  {
+    "objectID": "projects/project_2.html#link",
+    "href": "projects/project_2.html#link",
+    "title": "California Housing Price Analysis",
+    "section": "Link",
+    "text": "Link\n\nPublished results on Google Doc."
   }
 ]

@@ -2,8 +2,11 @@
 title: "About"
 ---
 
-About this site
+## Author
+Tingwei Wu
 
-```{r}
-1 + 1
-```
+## Date
+Made in March 06 2025
+
+## Acknowledgements
+This site would not have been possible without the guidance and support of **Assistant Professor Alex** I truly appreciate him.

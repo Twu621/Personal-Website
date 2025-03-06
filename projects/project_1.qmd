@@ -1,11 +1,12 @@
 ---
-date: "March 05, 2025"
-title: "project_1"
-author: "Tingwei Wu"
-
+date: "June, 2024"
+title: "Experimental Design Project"
+author: "STATS 101B Group 22"
 ---
 
-```{r}
-1+1
-```
+## Descriptions & Summary
+- Designed and conducted experiments to analyze the effects of diet and exercise on physical health.  
+- Applied ANOVA and visualized results using R.  
 
+## Link
+- Published results on [Google Doc](https://docs.google.com/document/u/2/d/e/2PACX-1vTBgLwiry_WoadRFw7vfyMwl_qH6d-tqbIw5JDMeLg9t6mIQ5M5lixwngY6XIJZ9oe0yefwvo_VSSwu/pub).  

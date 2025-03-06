@@ -4,22 +4,42 @@ about:
   template: broadside
   image: profile.jpeg
   links:
-
     - icon: github
       text: Github
       href: https://github.com/Twu621
-    - text: Email
-      url: "mailto:twu621@ucla.edu"
+    - icon: envelope
+      text: Email
+      href: "mailto:twu621@ucla.edu"
 ---
 
-Finley Malloc is the Chief Data Scientist at Wengo Analytics. When not innovating on data platforms, Finley enjoys spending time unicycling and playing with her pet iguana. Download [My CV](/CV.pdf) \## Education
+Tingwei Wu is a passionate data analyst with a strong foundation in statistics and machine learning. Currently studying at UCLA, Tingwei enjoys uncovering insights through data and contributing to impactful decision-making. When not analyzing datasets, he loves playing soccer, running, and exploring data storytelling. \
+Download [My CV](/CV.pdf)
 
-University of California, San Diego \| San Diego, CA PhD in Mathematics \| Sept 2011 - June 2015
+## Education Experience
 
-Macalester College \| St. Paul, MN B.A in Economics \| Sept 2007 - June 2011
+**University of California, Los Angeles**  
+*B.S. in Statistics* \| Sept 2023 - Present  
 
-## Experience
+**Contra Costa College**  
+*Non Degree Seeking* \| Sept 2020 - May 2023  
 
-Wengo Analytics \| Head Data Scientist \| April 2018 - present
+**Hercules High School**  
+*High School Diploma* \| Sept 2017 - June 2020  
 
-GeoScynce \| Chief Analyst \| Spet 2012 - April 2018
+## Projects Experience
+
+**Masked Miles Project (DGT-HUM101)**  
+*Data Analyst* \| UCLA \| 2024  
+  
+
+**NBA Team Winning Predictions (Stats 101C)**  
+*Team Member* \| UCLA \| 2024  
+
+
+**Experimental Design Project (Stats 101B)**  
+*Team Member* \| UCLA \| 2024  
+
+
+**California Housing Price Analysis (Stats 101A)**  
+*Team Member* \| UCLA \| 2024  
+ 

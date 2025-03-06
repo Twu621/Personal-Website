@@ -1,10 +1,13 @@
 ---
-date: "March 04, 2025"
-title: "project_2"
-author: "Tingwei Wu"
-
+date: "March, 2024"
+title: "California Housing Price Analysis "
+author: "Stats 101A Group 31"
 ---
-```{r}
-2+2
-```
+
+## Descriptions & Summary
+- Conducted exploratory data analysis and regression modeling to predict housing prices in California.  
+- Built multiple linear regression models in R.  
+
+## Link
+- Published results on [Google Doc](https://docs.google.com/document/u/2/d/e/2PACX-1vSjYb2sUNW2pQO1V6LnVwF9Jeqkcg9hOarlH1D_tDoo118d_qSuYBwXZSU5k_a8nexfz5xbdBd8sQPm/pub).  
 

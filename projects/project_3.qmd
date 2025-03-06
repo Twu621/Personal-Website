@@ -1,0 +1,11 @@
+---
+date: "December, 2024"
+title: "Masked Miles Project"
+author: "DGT-HUM101 Final Project team"
+---
+
+## Descriptions & Summary
+- Collaborated on a digital humanities project to map and analyze travel data.  
+
+## Link
+- Published results on [Masked Miles](https://maskedmiles.humspace.ucla.edu/).  

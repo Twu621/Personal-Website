@@ -7,14 +7,14 @@ website:
     right:
       - href: index.qmd
         text: Landing page
-      - about.qmd
       - href: projects.qmd
         text: Project page
-
+      - href: about.qmd
+        text: About page
 format:
   html:
     theme:
-      - Lux
+      - journal
       - brand
     css: styles.css
     toc: true
