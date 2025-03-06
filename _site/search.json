@@ -2,9 +2,23 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Personal Website",
+    "title": "Tingwei Wu",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2\n\n\n\nrunif(10)\n\n [1] 0.27221028 0.91283890 0.92231046 0.00843825 0.15242330 0.63168816\n [7] 0.99274799 0.11307785 0.66173900 0.18839447\n\n\n\nrnorm(100)\n\n  [1] -1.177544671  2.123773702  1.079446304 -0.535160820  0.027317697\n  [6] -0.615095533 -1.758807299 -0.598513338  1.848915464  0.002750075\n [11] -0.201151572 -1.182187305  0.087768659 -0.445307289 -0.198554390\n [16] -0.896679699 -0.947164492 -0.466216977  0.784501658  0.844004894\n [21]  1.122495379  1.037064178 -0.403598543 -1.430399839  1.113957419\n [26]  1.316598995 -0.272390477  0.112725786  1.878284866  0.075035439\n [31] -0.979775905 -0.423448264  0.500952094  1.738253184  0.053167994\n [36]  0.302378967  0.905278085 -0.546343256 -0.998976228  0.032513346\n [41]  0.437990805  0.645822841 -1.211056136 -0.651432626  1.146980828\n [46]  1.194529413  0.359286076  0.470755365 -1.047997162 -0.562634477\n [51] -0.001986776  0.186084223  2.047861532  1.293115830 -2.233115364\n [56] -0.218991886 -0.910085607 -0.251802462 -0.839387852  0.659150623\n [61] -0.488811278 -1.712904597  0.256786446 -1.748748981  1.758087724\n [66] -0.235783191  0.656684159 -0.587055595  1.365157760 -0.785513044\n [71]  1.863850874  0.213024674  0.165941546 -1.946670964 -0.215302530\n [76]  0.053853892  0.621561816 -0.925061233 -2.688641676 -0.434456935\n [81] -0.829145840 -0.884994467  0.342175000  0.098943436 -0.159005910\n [86]  0.016810234  0.623198363 -0.698431610  0.798160742  0.413850471\n [91]  0.159518624 -1.635241773 -0.015570478  0.446645937  0.480746743\n [96] -0.054888808 -0.874540209  0.362010673  1.126827383 -0.336305904\n\n\n\nx= 10\nprint(x)\n\n[1] 10\n\n\n\nx = 100000\n10+x\n\n[1] 100010"
+    "text": "Finley Malloc is the Chief Data Scientist at Wengo Analytics. When not innovating on data platforms, Finley enjoys spending time unicycling and playing with her pet iguana. Download My CV ## Education\nUniversity of California, San Diego | San Diego, CA PhD in Mathematics | Sept 2011 - June 2015\nMacalester College | St. Paul, MN B.A in Economics | Sept 2007 - June 2011"
+  },
+  {
+    "objectID": "index.html#education",
+    "href": "index.html#education",
+    "title": "Tingwei Wu",
+    "section": "Education",
+    "text": "Education\nUniversity of California, San Diego | San Diego, CA PhD in Mathematics | Sept 2011 - June 2015\nMacalester College | St. Paul, MN B.A in Economics | Sept 2007 - June 2011"
+  },
+  {
+    "objectID": "index.html#experience",
+    "href": "index.html#experience",
+    "title": "Tingwei Wu",
+    "section": "Experience",
+    "text": "Experience\nWengo Analytics | Head Data Scientist | April 2018 - present\nGeoScynce | Chief Analyst | Spet 2012 - April 2018"
   },
   {
     "objectID": "about.html",
@@ -12,5 +26,26 @@
     "title": "About",
     "section": "",
     "text": "About this site\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "Order By\n       Default\n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n         \n          Title\n        \n         \n          Author\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\nDate\n\n\nTitle\n\n\nAuthor\n\n\n\n\n\n\nMar 5, 2025\n\n\nproject_1\n\n\nTingwei Wu\n\n\n\n\nMar 4, 2025\n\n\nproject_2\n\n\nTingwei Wu\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "projects/project_2.html",
+    "href": "projects/project_2.html",
+    "title": "project_2",
+    "section": "",
+    "text": "2+2\n\n[1] 4"
+  },
+  {
+    "objectID": "projects/project_1.html",
+    "href": "projects/project_1.html",
+    "title": "project_1",
+    "section": "",
+    "text": "1+1\n\n[1] 2"
   }
 ]

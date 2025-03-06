@@ -1,0 +1,15 @@
+{
+  "hash": "e06babb5e9207856ed72e459e173a4aa",
+  "result": {
+    "engine": "knitr",
+    "markdown": "---\ndate: \"March 04, 2025\"\ntitle: \"project_2\"\nauthor: \"Tingwei Wu\"\n\n---\n\n::: {.cell}\n\n```{.r .cell-code}\n2+2\n```\n\n::: {.cell-output .cell-output-stdout}\n\n```\n[1] 4\n```\n\n\n:::\n:::\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

@@ -8,6 +8,8 @@ website:
       - href: index.qmd
         text: Landing page
       - about.qmd
+      - href: projects.qmd
+        text: Project page
 
 format:
   html:
@@ -19,3 +21,5 @@ format:
 
 editor: visual
 
+execute: 
+  freeze: auto

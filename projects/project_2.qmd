@@ -1,0 +1,10 @@
+---
+date: "March 04, 2025"
+title: "project_2"
+author: "Tingwei Wu"
+
+---
+```{r}
+2+2
+```
+
